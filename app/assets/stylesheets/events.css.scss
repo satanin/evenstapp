@@ -1,0 +1,28 @@
+// Place all the styles related to the events controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.event-container{
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid #333333;
+  padding:20px;
+  background-color: #eeeeee;
+}
+
+.event-container a {
+}
+
+.title{
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 30px;
+}
+
+.link a {
+  color: #DAA500;
+}
+
+.link a:visited, .link a:hover{
+  color: FF401F;
+}
